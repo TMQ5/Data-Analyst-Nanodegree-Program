@@ -7,20 +7,20 @@ In this project, we'll analyze local and global temperature data and compare the
 
 To do this project, there are 4 steps need to follow:
 
-### First: Extract data from a database using a SQL query
+#### First: Extract data from a database using a SQL query
 Udacity provide a workspace to extract data from the temperatures database. There are three tables in the database:
 - city_list - This contains a list of cities and countries in the database.
 - city_data - This contains the average temperatures for each city by year (ºC).
 - global_data - This contains the average global temperatures by year (ºC).
 Thereafter, we download the results to a CSV and open it up in a spreadsheet program in order to analyze it (I used Excel).
 
-### Second: Calculate a moving average in a spreadsheet
+#### Second: Calculate a moving average in a spreadsheet
 Now that we extract data from a database, we'll calculate a moving average. Moving averages are used to smooth out data to make it easier to observe long term trends and not get lost in daily fluctuations. We Calculate it using AVERAGE() function in Excel.
 
-### Third: Create a line chart in a spreadsheet
+#### Third: Create a line chart in a spreadsheet
 We'll create a line chart that compares local city’s temperatures with the global temperatures and plot the moving average rather than the yearly averages in order to smooth out the lines.
 
-### Fourth: Make observations
+#### Fourth: Make observations
 Finally, we make at least 4 observations about the similarities and differences between the world averages and local city’s averages.
 
 ## Project Submission
