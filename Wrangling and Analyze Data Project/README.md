@@ -6,7 +6,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 ## Project Instructions
 Our tasks in this project are as follows:  
-**Step 1:** Gathering data  
+**Step 1:** Gathering data from 3 different sources and different file formats  
 **Step 2:** Assessing data  
 **Step 3:** Cleaning data  
 **Step 4:** Storing data  
@@ -16,6 +16,11 @@ Our tasks in this project are as follows:
     - your data analyses and visualizations  
 
 ## Tools Used in the Project
-
+These python's packages is uesed:
+* pandas
+* NumPy
+* requests
+* tweepy
+* json
 
 ## Project Submission
