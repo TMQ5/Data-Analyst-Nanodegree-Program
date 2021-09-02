@@ -1,10 +1,10 @@
 # Exploring Weather Trends
 ## Project Overview
-***
+
 In this project, we'll analyze local and global temperature data and compare the temperature trends where I live "Mecca" to overall global temperature trends and create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in Mecca.
 
 ## Project Instructions
-***
+
 To do this project, there are 4 steps need to follow:
 
 ### First: Extract data from a database using a SQL query
@@ -24,7 +24,7 @@ We'll create a line chart that compares local city’s temperatures with the glo
 Finally, we make at least 4 observations about the similarities and differences between the world averages and local city’s averages.
 
 ## Project Submission
-***
+
 The submission should be a PDF that includes:
 
 - **An outline** of steps taken to prepare the data to be visualized in the chart, such as:
