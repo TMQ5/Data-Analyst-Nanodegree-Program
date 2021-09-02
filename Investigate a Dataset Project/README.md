@@ -2,6 +2,13 @@
 ## Project Overview
 In this project, we will analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make our analysis easier.
 
+## Installation
+It's recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
+
+1. Download the installer from [here](https://www.anaconda.com/download/). Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
+2. Refer to the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
+3. Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/).
+
 ## Project Instructions
 These steps need to follow:
 #### Step One - Choose Our Data Set
@@ -26,8 +33,6 @@ Once we have finished analyzing the data, create a report that shares the findin
 
 #### Step Five - Review
 Use the [Project Rubric](https://review.udacity.com/#!/rubrics/3025/view) to review our project.
-
-
 
 ## Tools Used in the project
 We'll use the Python libraries NumPy, Pandas, and Matplotlib
