@@ -23,6 +23,11 @@ We'll create a line chart that compares local city’s temperatures with the glo
 #### Fourth: Make observations
 Finally, we make at least 4 observations about the similarities and differences between the world averages and local city’s averages.
 
+## Tools Used in the project
+- **SQL**: used to extract data from the database.
+- **Excel**: used to analyze and visualize the results of queries.
+
+
 ## Project Submission
 
 The submission should be a PDF that includes:
