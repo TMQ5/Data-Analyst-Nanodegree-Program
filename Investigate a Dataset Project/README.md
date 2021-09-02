@@ -35,10 +35,10 @@ We'll use the Python libraries NumPy, Pandas, and Matplotlib
 ## Project Submission
 #### What to include in our submission
 1. A PDF or HTML file containing our analysis. This file should include:
-- A note specifying which dataset we analyzed
-- A statement of the question(s) we posed
-- A description of what we did to investigate those questions
-- Documentation of any data wrangling we did
-- Summary statistics and plots communicating our final results
+   - A note specifying which dataset we analyzed
+   - A statement of the question(s) we posed
+   - A description of what we did to investigate those questions
+   - Documentation of any data wrangling we did
+   - Summary statistics and plots communicating our final results
 2. Code we used to perform our analysis. If we used a Jupyter notebook, we can submit our `.ipynb`. Otherwise, we should submit the code separately in `.py` file(s).
 3. A list of Web sites, books, forums, blog posts, github repositories, etc. that we referred to or used in creating our submission (add N/A if we did not use any such resources).
