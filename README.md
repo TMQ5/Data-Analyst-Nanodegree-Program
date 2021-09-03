@@ -9,7 +9,7 @@ This course helps to advance your programming skills and refine your ability to 
 ## Project Courses
 ### Introduction to Data Analysis
 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in Python, using libraries like NumPy and Pandas.
-* **Project 1: Explore Weather Trends**
+* [**Project 1: Explore Weather Trends**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Explore%20Weather%20Trends%20Project)
 In this project, you'll get familiar with SQL, and learn how to download data from a database. You’ll analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
 * **Project 2: Investigate a Dataset**
