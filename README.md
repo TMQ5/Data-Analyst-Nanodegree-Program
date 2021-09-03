@@ -30,5 +30,5 @@ Learn to apply visualization principles to the data analysis process. Explore da
 You will use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, you will create a presentation that communicates your findings to others.
 
 
-### Acknowledgement
+## Acknowledgement
 I'd like to thanks Udacity and One Million Arab Coders Initiative for this great opportunity.
