@@ -23,12 +23,12 @@ Eventually we’ll want to submit our project (and share it with friends, family
 
 (We use a Jupyter notebook, in which case we can submit both the code we wrote and the report of our findings in the same document).
 
-#### Step Three - Analyze Your Data
+#### Step Three - Analyze Our Data
 Brainstorm some questions we could answer using the data set we chose, then start answering those questions. We can find some questions in the [data set options](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) to help us get started.
 
 Suggest questions that promote looking at relationships between multiple variables. We should aim to analyze at least one dependent variable and three independent variables in our investigation. Also we make sure we use NumPy and pandas where they are appropriate!
 
-#### Step Four - Share Your Findings
+#### Step Four - Share Our Findings
 Once we have finished analyzing the data, create a report that shares the findings we found most interesting. If we use a Jupyter notebook, share our findings alongside the code we used to perform the analysis. Make sure that our report text is contained in Markdown cells to clearly distinguish our comments and findings from our code work. We also free to use other tools and software to craft our final report, but make sure that we can submit our report as an HTML or PDF file so that it can be opened easily.
 
 #### Step Five - Review
