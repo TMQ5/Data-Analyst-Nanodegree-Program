@@ -1,4 +1,6 @@
 # Data-Analyst-Nanodegree-Program
+![My Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/92df8a02-5a11-4708-a28d-16f11d2e33a2.svg)
+
 ## Overview
 I've been awarded a scholarship from [One Million Arab Coders Initiative](https://arabcoders.ae/) to study this Nanodegree provided by [Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
