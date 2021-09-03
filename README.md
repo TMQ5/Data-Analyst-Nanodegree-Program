@@ -12,23 +12,23 @@ Learn the data analysis process of wrangling, exploring, analyzing, and communic
 * [**Project 1: Explore Weather Trends**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Explore%20Weather%20Trends%20Project)
 In this project, you'll get familiar with SQL, and learn how to download data from a database. You’ll analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-* **Project 2: Investigate a Dataset**
+* [**Project 2: Investigate a Dataset**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Investigate%20a%20Dataset%20Project)
 You will choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
 ### Practical Statistics
 Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
-* **Project 3: Analyze Experiment Results**
+* [**Project 3: Analyze Experiment Results**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Analyze%20A:B%20Test%20Results%20Project)
 You will be provided a dataset reflecting data collected from an experiment. Use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report.
 
 
 ### Data Wrangling
 Learn the data wrangling process of gathering, assessing, and cleaning data. Learn to use Python to wrangle data programmatically and prepare it for analysis.
-* **Project 4: Wrangle and Analyze Data**
+* [**Project 4: Wrangle and Analyze Data**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Wrangling%20and%20Analyze%20Data%20Project)
 Real-world data rarely comes clean. Using Python, you'll gather data from a variety of sources, assess its quality and tidiness, then clean it. You'll document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
 ### Data Visualization with Python
 Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to find insights and create a compelling story.
-* **Project 5: Communicate Data Findings**
+* [**Project 5: Communicate Data Findings**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Communicate%20Data%20Findings%20Project)
 You will use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, you will create a presentation that communicates your findings to others.
 
 
