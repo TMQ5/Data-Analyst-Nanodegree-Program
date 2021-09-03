@@ -12,11 +12,11 @@ Our tasks in this project are as follows:
 **Step 4:** Storing data  
 **Step 5:** Analyzing, and visualizing data  
 **Step 6:** Reporting  
-    - your data wrangling efforts  
-    - your data analyses and visualizations  
+    * our data wrangling efforts  
+    * our data analyses and visualizations  
 
 ## Tools Used in the Project
-These python's packages is uesed:
+These python's packages is used:
 * pandas
 * NumPy
 * requests
@@ -24,3 +24,15 @@ These python's packages is uesed:
 * json
 
 ## Project Submission
+1. Ensure that we meet specifications for all items in the [Project Rubric](https://review.udacity.com/#!/rubrics/3027/view). Our project "meets specifications" only if it meets specifications for all of the criteria.
+2. Ensure that we have not included our API keys, secrets, and tokens in your project files.
+3. If we completed our project in the **Udacity Project Workspace**, ensure the following files are present in our workspace, then click "Submit Project" in the bottom righthand corner of the Project Workspace page:
+* `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
+* `wrangle_report.pdf` or `wrangle_report.html`: documentation for data wrangling steps: gather, assess, and clean
+* `act_report.pdf` or `act_report.html`: documentation of analysis and insights into final data
+* `twitter_archive_enhanced.csv`: file as given
+* `image_predictions.tsv`: file downloaded programmatically
+* `tweet_json.txt`: file constructed via API
+* `twitter_archive_master.csv`: combined and cleaned data
+* any additional files (e.g. files for additional pieces of gathered data or a database file for your stored clean data)
+4. If we completed our project outside of the Udacity Classroom, we must package the above listed files into a zip archive or push them from a GitHub repo, then click the "Submit Project" button on this page.
