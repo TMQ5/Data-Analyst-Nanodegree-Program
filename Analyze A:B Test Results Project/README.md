@@ -1,6 +1,6 @@
 # Analyze A/B Test Results
 ## Project Overview
-For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Our goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Our goal is to work through this [notebook](https://video.udacity-data.com/topher/2021/April/608762dc_analyzeabtestresults-2/analyzeabtestresults-2.zip) to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 The project contains 3 main important statistical parts:
 1. Probabilities part
 2. A/B Test part
