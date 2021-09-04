@@ -6,7 +6,7 @@ I've been awarded a scholarship from [One Million Arab Coders Initiative](https:
 
 This course helps to advance your programming skills and refine your ability to work with messy, complex datasets. You’ll learn to manipulate and prepare data for analysis, and create visualizations for data exploration. Finally, you’ll learn to use your data skills to tell a story with data.
 
-## Project Courses
+## Program Courses
 ### Introduction to Data Analysis
 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in Python, using libraries like NumPy and Pandas.
 * [**Project 1: Explore Weather Trends**](https://github.com/TMQ5/Data-Analyst-Nanodegree-Program/tree/main/Explore%20Weather%20Trends%20Project)
